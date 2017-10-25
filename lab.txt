@@ -1,0 +1,16 @@
+Select Two Topics
+
+Generate 1000 runs with random selection of sentences
+
+So, we have 1000 semantic spaces
+
+For the overlapping words between the two topics, and mark them as W
+
+For each word in W, find the number of syssets it has. Plot a distribution
+and find a cutoff point. 
+
+Now we have list of W', which are probably polysemous words.
+
+Sort then and select w1 ... w5, where w belongs to W'.
+
+Find the N nearest words for w in each semantic space
