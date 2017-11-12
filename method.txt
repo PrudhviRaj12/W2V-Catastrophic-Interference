@@ -1,0 +1,5 @@
+create a random run and select
+k neighbors
+
+create n runs with topic ordering and 
+do intersection by union.
