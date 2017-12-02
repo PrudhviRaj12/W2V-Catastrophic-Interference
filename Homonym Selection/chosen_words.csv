@@ -1,0 +1,20 @@
+Equal Usage,,,,,Unequal Usage,,
+,,,,,,,
+Word,Topic 1 ,Topic 2,,,Word,Topic 1 ,Topic 2
+,,,,,,,
+Compact,Science,Social Studies,,,Bull,Language Arts,Social Studies
+,10,14,,,,73,15
+Hamper,Language Arts,Social Studies,,,Gum,Language Arts,Health
+,4,5,,,,29,14
+Capital,Language Arts,Business,,,Cap,Language Arts,Science
+,103,153,,,,120,28
+Net,Language Arts,Business,,,Chip,Language Arts,Social Studies
+,51,49,,,,57,11
+Slip,Science,Business,,,Pitch,Language Arts,Science
+,16,10,,,,51,24
+Plane,Industrial Arts,Social Studies,,,Compound,Language Arts,Science
+,35,48,,,,103,216
+Heel,Health,Social Studies,,,Hull,Science,Social Studies
+,3,5,,,,3,28
+,,,,,Mount,Science,Industrial Arts
+,,,,,,33,7
