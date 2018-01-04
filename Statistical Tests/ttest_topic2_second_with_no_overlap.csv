@@ -1,0 +1,57 @@
+,word,base,comparison,k,significance,
+0,firm,topic 2 second,topic 1 second,100,significant,TRUE
+0,firm,topic 2 second,topic 1 second,200,significant,TRUE
+0,firm,topic 2 second,topic 1 second,300,significant,TRUE
+0,cap,topic 2 second,topic 1 second,100,significant,TRUE
+0,cap,topic 2 second,topic 1 second,200,significant,TRUE
+0,cap,topic 2 second,topic 1 second,300,not significant,FALSE
+0,bud,topic 2 second,topic 1 second,100,significant,TRUE
+0,bud,topic 2 second,topic 1 second,200,not significant,FALSE
+0,bud,topic 2 second,topic 1 second,300,not significant,FALSE
+0,compound,topic 2 second,topic 1 second,100,significant,TRUE
+0,compound,topic 2 second,topic 1 second,200,significant,TRUE
+0,compound,topic 2 second,topic 1 second,300,significant,TRUE
+0,pitch,topic 2 second,topic 1 second,100,not significant,FALSE
+0,pitch,topic 2 second,topic 1 second,200,significant,TRUE
+0,pitch,topic 2 second,topic 1 second,300,significant,TRUE
+0,hull,topic 2 second,topic 1 second,100,significant,TRUE
+0,hull,topic 2 second,topic 1 second,200,not significant,FALSE
+0,hull,topic 2 second,topic 1 second,300,not significant,FALSE
+0,chip,topic 2 second,topic 1 second,100,significant,TRUE
+0,chip,topic 2 second,topic 1 second,200,not significant,FALSE
+0,chip,topic 2 second,topic 1 second,300,not significant,FALSE
+0,bull,topic 2 second,topic 1 second,100,significant,TRUE
+0,bull,topic 2 second,topic 1 second,200,significant,TRUE
+0,bull,topic 2 second,topic 1 second,300,significant,TRUE
+0,mount,topic 2 second,topic 1 second,100,not significant,FALSE
+0,mount,topic 2 second,topic 1 second,200,not significant,FALSE
+0,mount,topic 2 second,topic 1 second,300,not significant,FALSE
+0,gum,topic 2 second,topic 1 second,100,significant,TRUE
+0,gum,topic 2 second,topic 1 second,200,significant,TRUE
+0,gum,topic 2 second,topic 1 second,300,not significant,FALSE
+0,hamper,topic 2 second,topic 1 second,100,not significant,FALSE
+0,hamper,topic 2 second,topic 1 second,200,significant,TRUE
+0,hamper,topic 2 second,topic 1 second,300,not significant,FALSE
+0,plane,topic 2 second,topic 1 second,100,not significant,FALSE
+0,plane,topic 2 second,topic 1 second,200,not significant,FALSE
+0,plane,topic 2 second,topic 1 second,300,not significant,FALSE
+0,pupil,topic 2 second,topic 1 second,100,significant,TRUE
+0,pupil,topic 2 second,topic 1 second,200,not significant,FALSE
+0,pupil,topic 2 second,topic 1 second,300,significant,TRUE
+0,slip,topic 2 second,topic 1 second,100,significant,TRUE
+0,slip,topic 2 second,topic 1 second,200,significant,TRUE
+0,slip,topic 2 second,topic 1 second,300,not significant,FALSE
+0,capital,topic 2 second,topic 1 second,100,significant,TRUE
+0,capital,topic 2 second,topic 1 second,200,not significant,FALSE
+0,capital,topic 2 second,topic 1 second,300,not significant,FALSE
+0,net,topic 2 second,topic 1 second,100,not significant,FALSE
+0,net,topic 2 second,topic 1 second,200,not significant,FALSE
+0,net,topic 2 second,topic 1 second,300,not significant,FALSE
+0,compact,topic 2 second,topic 1 second,100,significant,TRUE
+0,compact,topic 2 second,topic 1 second,200,significant,TRUE
+0,compact,topic 2 second,topic 1 second,300,significant,TRUE
+0,heel,topic 2 second,topic 1 second,100,not significant,FALSE
+0,heel,topic 2 second,topic 1 second,200,significant,TRUE
+0,heel,topic 2 second,topic 1 second,300,not significant,FALSE
+,,,,,,28
+,,,,,,0.518518519
