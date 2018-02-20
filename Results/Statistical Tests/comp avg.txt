@@ -1,0 +1,14 @@
+
+overlap
+t2s - 0.77778
+t1s - 0.75925
+random - 0.87963
+
+avg - 0.80555
+
+non overlap
+t2s - 0.51851
+t1s - 0.55556
+random - 0.71296
+
+avg - 0.59567
