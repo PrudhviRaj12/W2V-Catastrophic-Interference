@@ -1,0 +1,16 @@
+man break car
+man break glass
+man break plate
+man break truck
+man smash glass
+man smash plate
+man stop car
+man stop truck
+woman break car
+woman break glass
+woman break plate
+woman break truck
+woman smash glass
+woman smash plate
+woman stop car
+woman stop truck

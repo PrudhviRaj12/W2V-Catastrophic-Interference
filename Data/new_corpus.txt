@@ -1,0 +1,16 @@
+man catch bass
+man eat bass
+man catch trout
+man eat trout
+woman catch bass
+woman eat bass
+woman catch trout
+woman eat trout
+man play bass
+man pluck bass
+man play guitar
+man pluck guitar
+woman play bass
+woman pluck bass
+woman play guitar
+woman pluck guitar
