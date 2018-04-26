@@ -1,0 +1,8 @@
+fish bass
+eat bass
+fish trout
+eat trout
+play bass
+pluck bass
+play guitar
+pluck guitar
